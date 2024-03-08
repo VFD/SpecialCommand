@@ -1,35 +1,35 @@
 # Documentation
 
-Try to be near *nix en PowerShell.\
-So somme script to have similarities.
+Try to be near *nix and PowerShell.\
+So some script to have similarities.
 
 
 ## AutoRun.cmd
 
-Look at the README.MD.\
+Look at the README.MD at root.\
 To be use evrytime your personnal Command start with a shortcut.
 
 ## clear.cmd
 
 On *nix system this command clear the screen.\
-THis call the CLS command, so clear the screen.
+This call the CLS command, so clear the screen.
 
 ## Copy-this.cmd
 
 Use Robocopy to make a copy af the current directory.\
-Copy as is to aother drive.\
+It's a miror to another drive (delete in dest dir).\
 Or shrink the path if you wish.
 
 ## Set-cp850.cmd
 
 Code page 850 is my default code page.\
-this permit me to return to my default.
+This permit me to return to my default.
 Work in progress to create more cmd cp.
 
 ## Set-cpUTF8
 
 Use in conjonction with the ShortCut and the AutoRun.cmd.\
-So each time my personnal Command start it's in code page UTF8 (65001 ).
+So each time my personnal Command start it's in code page UTF8 (65001).
 
 ## Set-Pprompt.cm
 
