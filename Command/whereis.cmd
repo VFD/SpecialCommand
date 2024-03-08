@@ -1,6 +1,6 @@
 :: ------------------------------------------------------------
-:: Change to CP 850
-:: > NUL : redirect output to nowhere
+:: An equivalent for whereis
+:: Search in the PATH
 :: ------------------------------------------------------------
-@CHCP 850 > NUL
+@for %%e in (%PATHEXT%) do @for %%i in (%1%%e) do @if NOT "%%~$PATH:i"=="" echo %%~$PATH:i
 :: -----[EOF]--------------------------------------------------

@@ -7,10 +7,10 @@
 :: ------------------------------------------------------------
 :: call evrything you need
 :: ------------------------------------------------------------
-:: Build specific prompt
-CALL Set-prompt
 :: put CMD in UTF8 mode, because other sucks
 CALL Set-cpUTF8
+:: Build specific prompt using UTF8 char
+CALL Set-prompt
 :: ------------------------------------------------------------
 :: Welcome the user
 :: ------------------------------------------------------------
