@@ -2,8 +2,7 @@
 CLS
 ::
 ::=============================================================================
-:: Script:  Backupme.cmd
-:: Comment: Backup All from run point to another drive
+:: Clone All from run point to another drive
 :: Version: v20221107
 ::=============================================================================
 ::
