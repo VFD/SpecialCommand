@@ -73,10 +73,19 @@ In the Shortcut, change the target to be :
 
 Now each time you lauch Command with your shortcup, evrything in the AutoRun.cmd apply.
 
-So far so good, do what you want.
+### about CALL
 
-You can have a shortcut for each feature you need.
+The CALL command permit to avoid problems.\
+For example, the Set-Prompt.cmd change the prompt.
 
+more about call : https://ss64.com/nt/call.html
+
+
+# Conclusion
+
+So far so good, do what you want.\
+You can have a shortcut for each feature you need.\
 Python, Git, Node.js, etc.
 
+You can manage different versions, etc.
 ___
