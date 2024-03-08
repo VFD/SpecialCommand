@@ -11,7 +11,7 @@ It's something else depending of your system configuration (local).
 This sucks because you can not have special characters like é ç à è ... in your command files (.cmd).
 
 What is your CP?\
-In Command type :
+In Command type:
 
 ``` cmd
 chcp
@@ -19,7 +19,7 @@ chcp
 
 In my computer the answer is 850. This is not UTF8.
 
-To have UTF8 I have to type :
+To have UTF8 I have to type:
 
 ``` cmd
 CHCP 65001
@@ -43,7 +43,7 @@ Just create a shortcut. Here I change the icon as I wish.
 ![Shortcut image](./pictures/MyShortcut.png "Shortcut example")
 
 
-With target :
+With target:
 
 ``` cmd
 %comspec% /k
@@ -54,7 +54,7 @@ Tune it as you wish, colors, etc.\
 Close.\
 Right clic on your shorcut, Parameters, tune evrything.\
 You have a parameter like "start in".\
-Change it to have :
+Change it to have:
 
 ``` cmd
 %HOMEDRIVE%%HOMEPATH%
