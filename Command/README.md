@@ -20,6 +20,12 @@ Use Robocopy to make a copy af the current directory.\
 It's a miror to another drive (delete in dest dir).\
 Shrink the path if you wish to put at the root of an USB stick for example.
 
+## Enable-nodejs
+
+Add NODEJS Path if it's directory is found.\
+Need to be change to match your's.\
+So you can use Node on the computer.
+
 ## Set-cp850.cmd
 
 Code page 850 is my default code page.\
