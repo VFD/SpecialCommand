@@ -5,8 +5,10 @@
 :: so this act as a profile you can found on *nix
 :: ============================================================
 :: ------------------------------------------------------------
-:: call evrything you need
+:: call everything you need
 :: ------------------------------------------------------------
+:: Set Title up to 243 characters.
+Title The %USERNAME% machine
 :: put CMD in UTF8 mode, because other sucks
 CALL Set-cpUTF8
 :: Build specific prompt using UTF8 char
@@ -14,7 +16,7 @@ CALL Set-prompt
 :: ------------------------------------------------------------
 :: Welcome the user
 :: ------------------------------------------------------------
-ECHO.
+VER
 ECHO Welcome to the machine %USERNAME%.
 ECHO.
 :: ------------------------------------------------------------
