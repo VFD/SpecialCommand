@@ -1,7 +1,7 @@
 @ECHO OFF
 :: ============================================================
 :: Script:  AutoRun.cmd
-:: Comment: To be use with a CMD shortcup
+:: Comment: To be use with a CMD shortcut
 :: so this act as a profile you can found on *nix
 :: ============================================================
 :: ------------------------------------------------------------

@@ -35,13 +35,13 @@ ECHO.
 ECHO.[97m
 ECHO ╔═════════════════════════════════════════════════════════════════════════════╗
 ECHO ║                                                                             ║
-ECHO ║                    Runing script: Backup.cmd                                ║ 
+ECHO ║                    Runing script: %0.cmd                             ║ 
 ECHO ║                                                                             ║
 ECHO ║ Backup all the directory and subdirectory where you are (CD)                ║
 ECHO ║ To another drive you specify (mirror)                                       ║
 ECHO ║ Duplicate an USB key is possible: start backup at root                      ║
 ECHO ║ So, be careful                                                              ║
-ECHO ║ [31mCTRL+C[0m to cancel this cmd file                                              ║
+ECHO ║ [31mCTRL+C[97m to cancel this cmd file                                              ║
 ECHO ║                                                                             ║
 ECHO ╚═════════════════════════════════════════════════════════════════════════════╝
 ECHO.[0m
