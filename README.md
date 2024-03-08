@@ -38,7 +38,11 @@ So Forgot this way.
 ## Use shortcut
 
 This is the best way. No need to be admin.\
-Just create a shortcut.\
+Just create a shortcut.
+
+![Shortcut image](./pictures/MyShortcut.png "Shortcut example")
+
+
 With target :
 
 ``` cmd
@@ -70,6 +74,16 @@ In the Shortcut, change the target to be :
 ``` cmd
 %comspec% /k AutoRun.cmd
 ``` 
+
+
+![Shortcut image](./pictures/ShortcupConfig.png "Config shortcut example")
+
+You can add if you want a key shortcut, for example:\
+CTRL + ALT + C
+
+Each time you type this 3 keys, the Command start.
+
+It's in French because I'm french.
 
 Now each time you lauch Command with your shortcup, evrything in the AutoRun.cmd apply.
 
