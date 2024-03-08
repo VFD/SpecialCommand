@@ -26,6 +26,11 @@ Add NODEJS Path if it's directory is found.\
 Need to be change to match your's.\
 So you can use Node on the computer.
 
+## home.cmd
+
+Return to the USERPROFILE.\
+So, his home.
+
 ## Set-cp850.cmd
 
 Code page 850 is my default code page.\
