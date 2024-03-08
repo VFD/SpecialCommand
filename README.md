@@ -38,7 +38,7 @@ So Forgot this way.
 ## Use shortcut
 
 This is the best way. No need to be admin.\
-Just create a shortcut.
+Just create a shortcut. Here I change the icon as I wish.
 
 ![Shortcut image](./pictures/MyShortcut.png "Shortcut example")
 
@@ -85,7 +85,7 @@ Each time you type this 3 keys, the Command start.
 
 It's in French because I'm french.
 
-Now each time you lauch Command with your shortcup, evrything in the AutoRun.cmd apply.
+Now each time you lauch Command with your shortcut, evrything in the AutoRun.cmd apply.
 
 ### about CALL
 
