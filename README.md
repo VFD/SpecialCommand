@@ -52,7 +52,7 @@ With target:
 Double clic your shorcut and it lauch the Windows Command.\
 Tune it as you wish, colors, etc.\
 Close.\
-Right clic on your shorcut, Parameters, tune evrything.\
+Right clic on your shorcut, Parameters, tune everything.\
 You have a parameter like "start in".\
 Change it to have:
 
@@ -85,7 +85,7 @@ Each time you type this 3 keys, the Command start.
 
 It's in French because I'm french.
 
-Now each time you lauch Command with your shortcut, evrything in the AutoRun.cmd apply.
+Now each time you lauch Command with your shortcut, everything in the AutoRun.cmd apply.
 
 ### about CALL
 
